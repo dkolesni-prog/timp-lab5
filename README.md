@@ -114,9 +114,7 @@ $ mkdir artifacts
 $ sleep 20s && gnome-screenshot --file artifacts/screenshot.png
 ```
 
-Результат тестирования
 
-![test](img/test.png)
 
 
 ### Домашнее задание
